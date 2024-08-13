@@ -4,5 +4,7 @@ In this project, you pass an image with some text and it will return that text i
 The languages are:
 
 . Urdu: "ur" (by default)
+
 . Japanese: "ja"
+
 . German: "de"
